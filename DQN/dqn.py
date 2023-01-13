@@ -71,6 +71,7 @@ class Net(nn.Module):
 # In[5]:
 
 
+# epslion_greedy
 epsilon_start = 1.0
 epsilon_final = 0.01
 epsilon_decay = 500
